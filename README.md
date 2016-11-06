@@ -11,7 +11,9 @@ The example from spark kafka with docker configuration
 
 Once the container has started you can run:
 
-```./send_data.sh```
+```
+./send_data.sh
+```
 
 This command will:
 - execute the script scripts/send_data.sh in the docker container
