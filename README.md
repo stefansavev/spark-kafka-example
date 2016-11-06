@@ -14,7 +14,6 @@ Once the container has started you can run:
 ```./send_data.sh```
 
 This command will:
-
 - execute the script scripts/send_data.sh in the docker container
 - send data to Kafka
 - force spark streaming to process the data
